@@ -1,4 +1,3 @@
-````md
 # 📦 Catalog + Multi-Channel Messaging System
 
 A lightweight, Dockerized **Symfony 7** application that provides a unified product catalog accessible through a responsive web interface and three major messaging platforms.
