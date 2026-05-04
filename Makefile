@@ -59,3 +59,7 @@ sf: ## List all Symfony commands or pass the parameter "c=" to run a given comma
 
 cc: c=c:c ## Clear the cache
 cc: sf
+
+## —— Ngrok 🌐 —————————————————————————————————————————————————————————————————
+ngrok-url: ## Sync ngrok tunnel URL → GitHub ENV var APP_URL (requires GH_TOKEN and GH_ENV_NAME)
+	@bash bin/update-ngrok-url.sh
