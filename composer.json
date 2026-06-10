@@ -50,9 +50,6 @@
             "symfony/flex": true,
             "symfony/runtime": true
         },
-        "platform": {
-            "ext-xml": "8.4.0"
-        },
         "bump-after-update": true,
         "sort-packages": true
     },
