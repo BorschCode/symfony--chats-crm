@@ -83,3 +83,4 @@ jobs:
                   VALIDATE_TRIVY: false
                   VALIDATE_PHP_PHPSTAN: false
                   COMPOSER_IGNORE_PLATFORM_REQS: 1
+                  APP_ENV: lint
